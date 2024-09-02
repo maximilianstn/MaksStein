@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @MaksStein
-- 👀 I’m interested in European and German Politics 🇪🇺🇩🇪
-- 🌱 I’m currently learning Python and SQL on the "Data Science Path" @ codecademy 👨🏼‍💻
-- 📫 How to reach me: Instagram @maks.stein 
+
